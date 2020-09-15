@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908253113797",
+    "firebase_url": "https://diplomer-a019a.firebaseio.com",
+    "project_id": "diplomer-a019a",
+    "storage_bucket": "diplomer-a019a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908253113797:android:8b4ce9ddd337ef5d9b2fac",
+        "android_client_info": {
+          "package_name": "com.n.Diplomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908253113797-f1i5di9qnptqgieub6n3f9bv0hv48p2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.n.Diplomer",
+            "certificate_hash": "31a1bec3f4c21305f1599758fc5c1fbd2066692e"
+          }
+        },
+        {
+          "client_id": "908253113797-7rn1mchaqimpt32giedm8up9ohsp75oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Fo127IsSsK59xLADGvZSrbRYXZpM0Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908253113797-7rn1mchaqimpt32giedm8up9ohsp75oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
